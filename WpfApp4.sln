@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp4", "WpfApp4\WpfApp4.csproj", "{CD996FF0-8D8F-4F87-A8A9-5F674EED0D80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD996FF0-8D8F-4F87-A8A9-5F674EED0D80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD996FF0-8D8F-4F87-A8A9-5F674EED0D80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD996FF0-8D8F-4F87-A8A9-5F674EED0D80}.Debug|x64.ActiveCfg = Debug|x64
+		{CD996FF0-8D8F-4F87-A8A9-5F674EED0D80}.Debug|x64.Build.0 = Debug|x64
+		{CD996FF0-8D8F-4F87-A8A9-5F674EED0D80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD996FF0-8D8F-4F87-A8A9-5F674EED0D80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD996FF0-8D8F-4F87-A8A9-5F674EED0D80}.Release|x64.ActiveCfg = Release|x64
+		{CD996FF0-8D8F-4F87-A8A9-5F674EED0D80}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A48E076C-A833-49F6-A8E6-EC4C7CDE671A}
+	EndGlobalSection
+EndGlobal
